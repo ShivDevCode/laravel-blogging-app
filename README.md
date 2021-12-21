@@ -1,3 +1,26 @@
+# Project Screenshots
+
+## Home page
+![](screenshots/latest_posts.png)
+
+## Main Posts page with sidebar
+![](screenshots/all_posts.png)
+
+## Show single post page
+![](screenshots/show_post.png)
+
+## Dashboard
+![](screenshots/dashboard.png)
+
+## Sign In
+![](screenshots/sign_in.png)
+
+## Sign In
+![](screenshots/sign_up.png)
+
+## Add Category
+![](screenshots/add%20category.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
